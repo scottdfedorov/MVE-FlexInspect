@@ -1,0 +1,6 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DemoProblem" enabled="$GRADLE_TEST_NO_RETRY$" level="ERROR" enabled_by_default="$GRADLE_TEST_NO_RETRY$" />
+  </profile>
+</component>
